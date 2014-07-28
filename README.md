@@ -1,7 +1,7 @@
 FCTBoat
 =======
 
-Simple Android application developed to remote control a boat prototype using Raspberry Pi. Basically, the navigation system consist in define directions and intensity of movement in 2D plan, convert position into a command and send this to remote service running on Raspberry Pi. The command is interpreted by server and motors are activated using GPIO ports.
+A simple Android application developed to remotely control a boat prototype using Raspberry Pi. Basically, the navigation system consist in define directions and intensity of movement in 2D plan, convert position into a command and send this to remote service running on Raspberry Pi. The command is interpreted by server and motors are activated using GPIO ports.
 
 More informations available in this [article](http://luizrabachini.com/media/projects/FCTBoat/relatory.pdf) (in portuguese).
 
